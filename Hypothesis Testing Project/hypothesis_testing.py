@@ -175,4 +175,4 @@ def run_ttest():
         else:
             return (False, pvalue, 'non-university town')
         
-print(run_ttest())
+#print(run_ttest())
